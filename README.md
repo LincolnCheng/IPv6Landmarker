@@ -17,7 +17,7 @@ IPv6landmarker is an IPv6 network landmark-acquiring tool that can help you enha
 
 ## Paper
 
-The approach is described in the paper and submitted to the Computers & Security journal, and I wish a good luck.
+The approach is described in the paper submitted to the Computers & Security journal.
 
 ## Appreciate
 
